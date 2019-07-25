@@ -28,7 +28,9 @@ ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
         $ jupyter notebook
 
 4. Reasonable understanding of college-level math as well (calculus, linear algebra, probabilities and statistics)
-5. Python programming experience(nice to have)https://www.liaoxuefeng.com/wiki/1016959663602400
+5. Python programming experience(nice to have)
+
+        https://www.liaoxuefeng.com/wiki/1016959663602400
     
 
 
