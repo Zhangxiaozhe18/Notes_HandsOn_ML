@@ -1,10 +1,14 @@
-# Project Name:   Notes_HandsOn_ML
+# Project Name:   
+
+        Notes_HandsOn_ML
 
 # KeyWords:     
-MachineLearning Quant Investment Programming
+        
+        MachineLearning Quant Investment Programming
 
 # Purpose:      
-ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
+        
+        ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
 
 # Session Schedule
 
