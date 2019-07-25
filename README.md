@@ -6,6 +6,18 @@ MachineLearning Quant Investment Programming
 # Purpose:      
 ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
 
+# Session Schedule
+
+        Session01: Fundamentals of Machine Learning(3H)
+        
+        Session02: One E2E Machine Learning Project(3H)
+        
+        Session03: Classification(3H)
+        
+        Session04: Regression(3H)
+        
+        TBD...
+
 # Prerequisites:
 1. Python 3.6 Installation
 
@@ -35,6 +47,6 @@ ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
 
 
 
-# Author:         Anthony, Zhang
+# Author:         Anthony, Zhang/SAIF MBA 2017PTE 
 # Mail:           xiaozhe18@126.com
 # wechat/cell:    13916639610
