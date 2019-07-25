@@ -20,6 +20,14 @@
         
         Session04: Regression(3H)
         
+        Session05: Support Vector Machine(3H)
+        
+        Session06: Decision Trees(3H)
+        
+        Session07: Ensemble Learning and Random Forests(3H)
+        
+        Session08: Dimensionality Reduction(3H)
+        
         TBD...
 
 # Prerequisites:
