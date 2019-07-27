@@ -38,9 +38,9 @@
         2) Windows: https://www.python.org/ftp/python/3.6.8/python-3.6.8-embed-amd64.zip
         
 2. Main scientific libraries downloaded, in particular: NumPy, Pandas, and Matplotlib 
-        
-        $ pip3 install --upgrade pip
 
+        $ pip3 install --upgrade pip
+    
         $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
         
         $ pip3 list
@@ -50,6 +50,10 @@
         After Jupyter installed, run the commands below to start jupyter editor: 
 
         $ jupyter notebook
+        [I 15:24 NotebookApp] Serving notebooks from local directory: [...]/ml
+        [I 15:24 NotebookApp] 0 active kernels
+        [I 15:24 NotebookApp] The Jupyter Notebook is running at:
+        http://localhost:8888/
 
 4. Reasonable understanding of college-level math as well (calculus, linear algebra, probabilities and statistics)
 5. Python programming experience(nice to have)
