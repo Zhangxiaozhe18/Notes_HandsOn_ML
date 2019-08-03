@@ -55,8 +55,12 @@
         [I 15:24 NotebookApp] The Jupyter Notebook is running at:
         http://localhost:8888/
 
-4. Reasonable understanding of college-level math as well (calculus, linear algebra, probabilities and statistics)
-5. Python programming experience(nice to have)
+4. git installation
+
+        reference： https://www.liaoxuefeng.com/wiki/896043488029600/896067074338496
+
+5. Reasonable understanding of college-level math as well (calculus, linear algebra, probabilities and statistics)
+6. Python programming experience(nice to have)
 
         https://www.liaoxuefeng.com/wiki/1016959663602400
     
