@@ -28,7 +28,9 @@
         
         Session08: Dimensionality Reduction(3H)
         
-        TBD...
+        Session09: K-Means(3H)
+        
+        Session10: Summary(3H)
 
 # Prerequisites:
 1. Python 3.6 Installation
