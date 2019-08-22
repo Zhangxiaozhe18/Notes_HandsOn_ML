@@ -26,9 +26,7 @@
         
         Session07: Ensemble Learning and Random Forests(3H)
         
-        Session08: Dimensionality Reduction(3H)
-        
-        Session09: K-Means(3H)
+        Session08: Dimensionality Reduction and K-Means(3H)
 
 # Prerequisites:
 1. Python 3.6 Installation
