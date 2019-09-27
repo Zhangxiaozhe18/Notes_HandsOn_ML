@@ -27,6 +27,22 @@
         Session07: Ensemble Learning and Random Forests(3H)
         
         Session08: Dimensionality Reduction and K-Means(3H)
+        
+        Session09: Up and Running with Tensorflow(3H)
+        
+        Session10: Introduction to Artificial Neural Networks(3H)
+        
+        Session11: Training Deep Neural Nets(3H)
+        
+        Session12: Distributing TensorFlow Across Devices and Servers(3H)
+        
+        Session13: Convolutional Neural Networks(3H)
+        
+        Session14: Recurrent Neural Networks(3H)
+        
+        Session15: Autoencoders(3H)
+        
+        Session16: Reinforcement Learning(3H)
 
 # Prerequisites:
 1. Python 3.6 Installation
@@ -39,7 +55,7 @@
 
         $ pip3 install --upgrade pip
     
-        $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+        $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn tensorflow
         
         $ pip3 list
         
