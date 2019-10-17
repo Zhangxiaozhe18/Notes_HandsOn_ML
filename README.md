@@ -55,7 +55,9 @@
 
         $ pip3 install --upgrade pip
     
-        $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn tensorflow
+        $ pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+        
+        $ pip3 install tensorflow==1.14.0
         
         $ pip3 list
         
