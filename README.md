@@ -4,11 +4,11 @@
 
 # Key Words:     
         
-        MachineLearning Quant Investment Programming
+        MachineLearning DeepLearning AI Quant Investment Programming
 
 # Purpose:      
         
-        ML Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
+        ML/ANN Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
 
 # Session Schedule
 
