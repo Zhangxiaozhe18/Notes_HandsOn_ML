@@ -8,7 +8,7 @@
 
 # Purpose:      
         
-        ML/ANN Practice Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
+        ML/ANN Open Sessions for Quant Club, SAIF  http://www.saif.sjtu.edu.cn/
 
 # Session Schedule
 
