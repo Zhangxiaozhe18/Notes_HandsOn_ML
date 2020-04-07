@@ -51,6 +51,10 @@
         
         2) Windows: https://www.python.org/ftp/python/3.6.8/python-3.6.8-embed-amd64.zip
         
+        if the messages shown, then python is installed successfully on your PC:
+        i328815@MacPro ~/bin >python3 -V
+        Python 3.6.8
+        
 2. Main scientific libraries downloaded, in particular: NumPy, Pandas, and Matplotlib 
 
         $ pip3 install --upgrade pip
