@@ -64,6 +64,18 @@
         $ pip3 install tensorflow==1.14.0
         
         $ pip3 list
+        if the messages shown as below, then related packages are installed successfully on your PC:
+        i328815@MacPro ~/bin >pip3 list
+        Package              Version
+        -------------------- ---------
+        ...
+        ipython              7.5.0
+        jupyter              1.0.0
+        ...
+        matplotlib           3.1.0
+        ...
+        pandas               0.24.2
+        ...
         
 3. Jupyter Usage
 
