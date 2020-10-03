@@ -99,6 +99,4 @@
 
 
 
-# Author:         Zhang, Xiaozhe/SAIF MBA 
-# LinkedIn:       https://www.linkedin.com/in/xiaozhe-zhang-29096575
-# wechat/cell:    13916639610
+# Author:         Anthony, Zhang/SAIF MBA 
