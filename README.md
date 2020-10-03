@@ -2,6 +2,10 @@
 
         Notes_HandsOn_ML
 
+# Author:         
+        
+        Anthony, Zhang
+
 # Key Words:     
         
         MachineLearning DeepLearning AI Quant Investment Programming
@@ -98,5 +102,3 @@
     
 
 
-
-# Author:         Anthony, Zhang/SAIF MBA 
